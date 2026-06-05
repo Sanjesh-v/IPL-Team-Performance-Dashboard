@@ -28,7 +28,7 @@ An interactive cricket analytics dashboard built using Python, Pandas, and Strea
 ```bash
 pip install -r requirements.txt
 python -m streamlit run app.py
-
+```
 
 
 
