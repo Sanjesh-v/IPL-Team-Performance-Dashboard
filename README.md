@@ -29,6 +29,32 @@ An interactive cricket analytics dashboard built using Python, Pandas, and Strea
 pip install -r requirements.txt
 python -m streamlit run app.py
 
-## Dashboard Preview
 
+
+
+## Dashboard Preview
 ![Dashboard](screenshots.png)
+
+### Main Dashboard
+![Dashboard](screenshots/PerformanceDashboard.png)
+
+### Best Venue Analytics
+![Best Venue Analytics](screenshots/BestVenue.png)
+
+### H2H Analytics
+![H2H Analytics](screenshots/H2hRecord.png)
+
+### Venue Analytics
+![Venue Analytics](screenshots/VenueAnalysis.png)
+
+### Toss Impact Analytics
+![Toss Impact Analytics](screenshots/TossImpact.png)
+
+### Batting and Bowling Analytics
+![Batting and Bowling Analytics](screenshots/BattingandBowlingAnalysis.png)
+
+### Top Run Scorers Analytics
+![Top Run Scorers Analytics](screenshots/TopRunScorers.png)
+
+### Top Wicket Takers Analytics
+![Top Wicket Takers Analytics](screenshots/TopWicketTakers.png)
